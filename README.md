@@ -1,5 +1,5 @@
 # Number Guess Game
- The Number guessing game coded with C language and it was my homework.
+ The number guessing game coded with C language and it was my homework.
 
 The game creates a random number which is numbers' are different and which is greater than 10^4 and smaller than 10^10.
 

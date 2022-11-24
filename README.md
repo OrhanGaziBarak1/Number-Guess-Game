@@ -2,7 +2,7 @@
 
 - Number Guess Game coded with C.
 
-- The game creates a random number which is number's digits are different and which is greater than 10^4^ and at the same time smaller than 10^10^ .
+- The game creates a random number which is number's digits are different and which is greater than 10<sup>4</sup> and at the same time smaller than 10<sup>10</sup> .
 
 - Player are able to select number's digits amount, so game starts.
 

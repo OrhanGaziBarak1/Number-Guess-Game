@@ -1,10 +1,12 @@
 # Number Guess Game
- The number guessing game coded with C language and it was my homework.
 
-The game creates a random number which is numbers' are different and which is greater than 10^4 and smaller than 10^10.
+- Number Guess Game coded with C.
 
-The player select number's digits amount, so game starts.
+- The game creates a random number which is number's digits are different and which is greater than 10^4^ and at the same time smaller than 10^10^ .
 
-Then the player try to guess the number. The game returns to player about player's guesses.
+- Player are able to select number's digits amount, so game starts.
 
-The game is able to say the number's figures' places are true or wrong, player's moves amount and also sorted form all guesses. 
+- Then the player try to guess the number. Then the game informs to player some informations.
+  - The game is able to say the number's digits' true or wrong.
+  - If digits' would be true game will be inform about digits' places true or false. 
+
